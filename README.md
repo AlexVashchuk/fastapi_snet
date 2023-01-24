@@ -1,4 +1,6 @@
-# Quick start
+### A twitter-like social network
+
+## Quick start
 
 ### Preparing
 Install and run your sql database service. Below instructions are for postgresql.
